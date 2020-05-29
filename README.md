@@ -1,2 +1,3 @@
 # JavaLr5
-Java Lab #5
+java lab #5
+Nikolaenko A.V. 122-19ck-1

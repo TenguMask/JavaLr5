@@ -1,0 +1,10 @@
+1,Eco-Finance Theory,Management,10
+2,Foreign Languages ,Management,15
+3,ManagentDepartment,Management,8
+4,Economic-Cybernetic,Finance   ,20
+5,Marketing Shoppery,Finance   ,12
+6,Information Security,InfTechFac,13
+7,Information Systems,InfTechFac,15
+8,SoftWare Developing,InfTechFac,7
+9,System-Math Analyze,InfTechFac,10
+10,sad,sad,222
